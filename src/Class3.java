@@ -3,5 +3,5 @@ public class Class3 {
 
     //smth
 
-    //qwe
+    //qwcwcfwefwef
 }
